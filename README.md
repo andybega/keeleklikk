@@ -12,5 +12,5 @@ Notes for Keeleklikk Estonian for English speakers
 
 ## Grammar, etc.
 
-- [Grammatical cases]({{ site.baseurl }}{% link 0-grammar.html %})
-- [When to use 1st or 2nd form of a word]({{ site.baseurl }}{% link 0-when-1st-2nd-form.html %})
+- [Grammatical cases](0-grammar.html)
+- [When to use 1st or 2nd form of a word](0-grammar.html)
