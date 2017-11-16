@@ -1,8 +1,4 @@
----
-title: foo
----
-
-# keeleklikk
+# Keeleklikk notes
 
 Notes for Keeleklikk Estonian for English speakers
 
