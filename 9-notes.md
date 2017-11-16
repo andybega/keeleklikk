@@ -1,9 +1,6 @@
----
-title: "Lesson 9 notes"
-date: "13 November 2017"
----
-
 [Back to home](index.html)
+
+# Lesson 9
 
 ## Objectives
 

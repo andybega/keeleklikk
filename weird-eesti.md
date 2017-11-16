@@ -1,4 +1,4 @@
-# Weird (for on English speaker) things in Estonian
+[Back to home](index.html)
 
 Here are some weird things about Estonian for me as an English/German speaker. Some of these come out also when Estonian's speak English. 
 
