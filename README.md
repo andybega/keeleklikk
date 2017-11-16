@@ -2,7 +2,7 @@
 
 Notes for Keeleklikk Estonian for English speakers
 
-[Weird things in Estonian]({{ site.baseurl }}{% link 999-weird-eesti.md %})
+[Weird things in Estonian]({{ site.baseurl }}{% link weird-eesti.md %})
 
 ## Resources
 
@@ -12,5 +12,5 @@ Notes for Keeleklikk Estonian for English speakers
 
 ## Grammar, etc.
 
-- [Grammatical cases](0-grammar.html)
+- [Grammatical cases]({{ site.baseurl }}{% link 0-grammar.md %})
 - [When to use 1st or 2nd form of a word](0-grammar.html)

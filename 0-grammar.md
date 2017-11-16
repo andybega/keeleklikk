@@ -1,6 +1,4 @@
----
-title: Grammatical cases
----
+# Grammatical cases
 
 ## Noun cases
 
