@@ -6,7 +6,7 @@ Here are some weird things about Estonian for me as an English/German speaker. S
 
 There are no gendered pronouns in Estonian. 
 
-> he/she -> tema
+> he/she &rarr; tema
 
 So when Estonians speak English, they can sometimes confuse pronouns.
 
